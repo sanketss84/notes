@@ -1,0 +1,11 @@
+**Legend**
+```
+Keep categories sorted by name
+```
+
+**Deutsch**
+**Development**
+**Laptops**
+**Mobile**
+**Tech**
+

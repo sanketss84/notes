@@ -1,2 +1,2 @@
 # notes
-This is a simple place to track my notes which i always need handy
+This is a simple place to track my notes/tools/plugins/utils which i always need handy to have a productive workflow.
